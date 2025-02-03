@@ -6,9 +6,9 @@ This is my first Python project.
 
 ``pip install streamlit`` install Python´s web frameworks
 
+``import streamlit as st`` choose the streamlit shortcut on your "app.py" file
+
 ``streamlit run app.py`` use this command to run the application on your local host (works like a live server)
-
-
 
 
 ## Reference 
